@@ -1,0 +1,19 @@
+{
+  "name": "Lynx Studio",
+  "short_name": "Lynx",
+  "description": "Lynx Studio in Ljubljana combines a coached fitness floor, reformer pilates and physiotherapy under one roof, working from the same plan. Book a visit.",
+  "start_url": "/frontend-app/",
+  "scope": "/frontend-app/",
+  "display": "standalone",
+  "background_color": "#F5F1E8",
+  "theme_color": "#004225",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "assets/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
